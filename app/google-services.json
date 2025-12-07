@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26599480147",
+    "project_id": "familyhealth-866c7",
+    "storage_bucket": "familyhealth-866c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26599480147:android:1989cf2ee705e235c29fa6",
+        "android_client_info": {
+          "package_name": "com.example.familyhealth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8NDm9MF5J74RSTACw7V3Xvcym59RLFxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

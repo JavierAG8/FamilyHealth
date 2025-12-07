@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Tu tema principal -->
+    <style name="Theme.FamilyHealth" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- aquí ya tendrás tus colores, tipografías, etc -->
+    </style>
+
+    <!-- Tema para el SplashScreen del sistema -->
+    <style name="Theme.FamilyHealth.Splash" parent="Theme.SplashScreen">
+        <!-- Icono que se muestra en el splash del sistema -->
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+
+        <!-- Color de fondo del splash -->
+        <item name="windowSplashScreenBackground">@color/blue_intro</item>
+
+        <!-- Tema que se usará DESPUÉS del splash -->
+        <item name="postSplashScreenTheme">@style/Theme.FamilyHealth</item>
+    </style>
+
+</resources>
