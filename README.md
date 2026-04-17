@@ -36,15 +36,6 @@ La aplicación adopta un patrón **MVVM (Model-View-ViewModel)** dentro de una *
 *   **Corrutinas y Flow:** Manejo moderno y eficiente de tareas asíncronas para proveer flujos de datos reactivos a la UI.
 
 
-## 📸 Interfaz de Usuario
-
-*(Instrucciones: Añade aquí las capturas de pantalla de la aplicación en funcionamiento para mostrar la progresión visual).*
-
-| Pantalla de Inicio / Dashboard | Listado de Medicación | Perfil / Síntomas |
-|:---:|:---:|:---:|
-| <!-- Añade tu imagen aquí --> <br> `![Dashboard](./docs/screenshots/dashboard.png)` | <!-- Añade tu imagen aquí --> <br> `![Medication](./docs/screenshots/medication.png)` | <!-- Añade tu imagen aquí --> <br> `![Profile](./docs/screenshots/profile.png)` |
-
-
 ## 🚀 Instalación y Despliegue
 
 1. Clona el repositorio:
